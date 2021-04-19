@@ -1,0 +1,10 @@
+/* reset */
+*{margin:0;
+padding:0;
+box-sizing: border-box;}
+
+/* organizar dos seletores mais amplos para os mais específicos */
+h1{color:darkolivegreen;
+text-align: center;}
+
+hr{border: red 1px dashed; }

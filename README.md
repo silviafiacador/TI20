@@ -1,3 +1,3 @@
 # TI20
-Repositório com fim didático da turma **TI20** - Senac Lapa Tito
+Repositório com fins didáticos da turma **TI20** - Senac Lapa Tito - tarde
 ### Neste *repositório* serão armazenadas todas as aulas da turma.
