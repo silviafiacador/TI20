@@ -1,0 +1,22 @@
+/*reset*/
+/* organização: dos seletores mais amplos para os mais específicos*/
+
+*{margin:0;padding:0;box-sizing: border-box;}
+/*max-width - auxilia na responsividade*/
+main{max-width: 2000px;background-color: rgb(45, 54, 45);}
+
+.minhaclasse{color:darkorange;font-size: 10vw;text-align: center;}
+
+
+
+/* media querie */
+@media (min-width:900px)
+{
+    .minhaclasse{color:deeppink;font-size: 4.5vw;}
+}
+
+/* media querie */
+@media (max-width:400px)
+{
+    .minhaclasse{color:gold;font-size: 4.2vw;display:none;}
+}
